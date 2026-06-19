@@ -1,0 +1,17 @@
+KPI's 
+1- Total Customer
+2-Total Booking
+3-Total Amount
+4-Avg.Dist
+5-cancelled by customer
+6- cancelled by driver
+
+
+chart:-
+1-monthly booking
+2-total booking acc to booking status
+3-total booking acc to vehicle type
+4- payment method
+5-sort dist,long dist
+ dis >30 long otherwise sort
+
